@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "name": "phase-2-hackathon-todo-frontend",
   "framework": "nextjs",
   "regions": ["iad1"],
   "env": {

@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "name": "phase-2-hackathon-todo",
   "buildCommand": "cd frontend && npm install && next build",
   "outputDirectory": "frontend/.next",
   "devCommand": "cd frontend && npm run dev",
