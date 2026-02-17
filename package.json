@@ -1,5 +1,11 @@
 {
-  "dependencies": {
-    "@openai/chatkit": "^1.6.0"
+  "name": "phase-2-hackathon-todo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "start": "cd frontend && npm run start",
+    "dev": "cd frontend && npm run dev",
+    "vercel-build": "cd frontend && npm install && npm run build"
   }
 }
