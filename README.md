@@ -1,6 +1,18 @@
-# 🚀 Hackathon Todo - Phase 2
+# 🚀 Phase 2 - Hackathon Todo Application
 
-A full-stack todo application with authentication, built as a monorepo for **Hackathon Phase 2**.
+<div align="center">
+
+![Phase](https://img.shields.io/badge/Phase-2-blue)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+![Deploy](https://img.shields.io/badge/Deploy-Vercel%20Ready-green)
+
+**A full-stack todo application with authentication - Built for Hackathon Phase 2**
+
+[Features](#-features) • [Quick Start](#-quick-start) • [Deployment](#-vercel-deployment) • [Tech Stack](#-tech-stack)
+
+</div>
+
+---
 
 ## 📋 Project Overview
 
@@ -11,7 +23,7 @@ This is **Phase 2** of the Hackathon project, featuring:
 - ✅ RESTful API with FastAPI
 - ✅ PostgreSQL Database
 - ✅ Docker Support
-- ✅ Vercel Deployment Ready
+- ✅ **Vercel Deployment Ready**
 
 ## 🏗️ Project Structure
 

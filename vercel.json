@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "hackathon-todo-phase-2",
+  "name": "phase-2-hackathon-todo",
   "buildCommand": "cd frontend && npm install && npm run build",
   "outputDirectory": "frontend/.next",
   "devCommand": "cd frontend && npm run dev",
@@ -10,5 +10,10 @@
   "rootDirectory": "frontend",
   "env": {
     "NEXT_PUBLIC_API_URL": "https://your-backend-url.vercel.app/api/v1"
+  },
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
   }
 }
